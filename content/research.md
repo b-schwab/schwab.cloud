@@ -9,6 +9,9 @@ Interdisciplinary collaboration will pave the way for transparent safety standar
 
 ## Publications
 
+Benedikt Schwab, Christof Beil, Thomas H. Kolbe. 2020. **Spatio-Semantic Road Space Modeling for Vehicle–Pedestrian Simulation to Test Automated Driving Systems.** Sustainability, 12(9), 3799.  
+[full-text](https://doi.org/10.3390/su12093799), [pdf](https://www.mdpi.com/2071-1050/12/9/3799/pdf), [bibtex](https://mediatum.ub.tum.de/export/1545440/bibtex)  
+
 Benedikt Schwab, Thomas H. Kolbe. 2019. **Requirement Analysis of 3D Road Space Models for Automated Driving.** ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences, IV-4/W8, 99–106.  
 [full-text](https://doi.org/10.5194/isprs-annals-IV-4-W8-99-2019), [pdf](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W8/99/2019/isprs-annals-IV-4-W8-99-2019.pdf), [bibtex](https://mediatum.ub.tum.de/export/1507292/bibtex)  
 
