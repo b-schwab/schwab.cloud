@@ -25,6 +25,8 @@ Christoph Sippl, Benedikt Schwab, Peter Kielar, Anatoli Djanatliev. 2018. **Dist
 
 ## Talks
 
+Christof Beil, Benedikt Schwab, Thomas H. Kolbe. June 16, 2020. **3D Streetspace Modeling for Autonomous Driving using CityGML 3.0 and OpenDRIVE**. Open Geospatial Consortium: Smart Roads Summit.
+
 November 26, 2019. **Räumlich-semantische Straßenraummodelle für das Testen automatisierter Fahrsysteme**. BIM World MUNICH.
 
 March 03, 2019. **Anforderungen an Straßenraummodelle im Kontext automatisierten Fahrens**. Münchner GI-Runde.
