@@ -25,6 +25,8 @@ Christoph Sippl, Benedikt Schwab, Peter Kielar, Anatoli Djanatliev. 2018. **Dist
 
 ## Talks
 
+Benedikt Schwab. November 04, 2020. **Virtual 3D City Models and their Applications in the Context of Automated Driving Systems**. fahrerlos & [youtube](https://www.youtube.com/watch?v=0g7ECPEmFsE).
+
 Christof Beil, Benedikt Schwab. October 30, 2020. **Digital Streetspace Modeling for Autonomous Driving and more**. Leonhard Obermeyer Center: Center Day 2020.
 
 Christof Beil, Benedikt Schwab, Thomas H. Kolbe. June 16, 2020. **3D Streetspace Modeling for Autonomous Driving using CityGML 3.0 and OpenDRIVE**. Open Geospatial Consortium: Smart Roads Summit.
