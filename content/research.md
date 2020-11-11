@@ -12,6 +12,9 @@ Interdisciplinary collaboration will pave the way for transparent safety standar
 **r:trån** is a road space model transformer for OpenDRIVE, CityGML and beyond.  
 [rtron.io](https://rtron.io), [github](https://github.com/tum-gis/rtron)
 
+**LoD3 Road Space Models** as open CityGML dataset of the research project SAVe.  
+[github](https://github.com/savein/open-data)
+
 ## Publications
 
 Benedikt Schwab, Christof Beil, Thomas H. Kolbe. 2020. **Spatio-Semantic Road Space Modeling for Vehicle–Pedestrian Simulation to Test Automated Driving Systems.** Sustainability, 12(9), 3799.  
