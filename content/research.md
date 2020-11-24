@@ -13,7 +13,7 @@ Interdisciplinary collaboration will pave the way for transparent safety standar
 [rtron.io](https://rtron.io), [github](https://github.com/tum-gis/rtron)
 
 **LoD3 Road Space Models** as open CityGML dataset of the research project SAVe.  
-[github](https://github.com/savein/open-data)
+[github](https://github.com/savein/lod3-road-space-models)
 
 ## Publications
 
